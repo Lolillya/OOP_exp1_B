@@ -1,0 +1,15 @@
+/home/lolillya/repos/C#/exp1/b/bin/Debug/net7.0/b
+/home/lolillya/repos/C#/exp1/b/bin/Debug/net7.0/b.deps.json
+/home/lolillya/repos/C#/exp1/b/bin/Debug/net7.0/b.runtimeconfig.json
+/home/lolillya/repos/C#/exp1/b/bin/Debug/net7.0/b.dll
+/home/lolillya/repos/C#/exp1/b/bin/Debug/net7.0/b.pdb
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.csproj.AssemblyReference.cache
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.GeneratedMSBuildEditorConfig.editorconfig
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.AssemblyInfoInputs.cache
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.AssemblyInfo.cs
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.csproj.CoreCompileInputs.cache
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.dll
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/refint/b.dll
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.pdb
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/b.genruntimeconfig.cache
+/home/lolillya/repos/C#/exp1/b/obj/Debug/net7.0/ref/b.dll
